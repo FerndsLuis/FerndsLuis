@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=FerndsLuis" alt="FerndsLuis" /></p>
 
-<!--
-**FerndsLuis/FerndsLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lu�s! :D
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FerndsLuis)](https://github.com/FerndsLuis)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferndsluis/)](https://www.linkedin.com/in/ferndsluis/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FerndsLuis)](https://twitter.com/FerndsLuis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Welcome to my profile! I'm a student and trainee, an aspiring coder and full-time adventure seeker. Thanks for visiting.
+
+## Skills
+- ????? C#, JavaScript
+- ???  CSS 
+- ?? SQL Server
+
+## ? GitHub Stats
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=FerndsLuis)
