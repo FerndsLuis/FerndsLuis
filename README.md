@@ -18,5 +18,5 @@ Welcome to my profile! I'm a student and trainee, an aspiring coder and full-tim
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=FerndsLuis&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerndsLuis&layout=compact&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerndsLuis&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
